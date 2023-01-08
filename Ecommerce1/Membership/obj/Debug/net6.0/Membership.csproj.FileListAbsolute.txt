@@ -1,0 +1,12 @@
+D:\Rohit_Yuvraj\Dotnet_Practice\Ecommerce\Membership\bin\Debug\net6.0\Membership.deps.json
+D:\Rohit_Yuvraj\Dotnet_Practice\Ecommerce\Membership\bin\Debug\net6.0\Membership.dll
+D:\Rohit_Yuvraj\Dotnet_Practice\Ecommerce\Membership\bin\Debug\net6.0\Membership.pdb
+D:\Rohit_Yuvraj\Dotnet_Practice\Ecommerce\Membership\obj\Debug\net6.0\Membership.csproj.AssemblyReference.cache
+D:\Rohit_Yuvraj\Dotnet_Practice\Ecommerce\Membership\obj\Debug\net6.0\Membership.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rohit_Yuvraj\Dotnet_Practice\Ecommerce\Membership\obj\Debug\net6.0\Membership.AssemblyInfoInputs.cache
+D:\Rohit_Yuvraj\Dotnet_Practice\Ecommerce\Membership\obj\Debug\net6.0\Membership.AssemblyInfo.cs
+D:\Rohit_Yuvraj\Dotnet_Practice\Ecommerce\Membership\obj\Debug\net6.0\Membership.csproj.CoreCompileInputs.cache
+D:\Rohit_Yuvraj\Dotnet_Practice\Ecommerce\Membership\obj\Debug\net6.0\Membership.dll
+D:\Rohit_Yuvraj\Dotnet_Practice\Ecommerce\Membership\obj\Debug\net6.0\refint\Membership.dll
+D:\Rohit_Yuvraj\Dotnet_Practice\Ecommerce\Membership\obj\Debug\net6.0\Membership.pdb
+D:\Rohit_Yuvraj\Dotnet_Practice\Ecommerce\Membership\obj\Debug\net6.0\ref\Membership.dll
